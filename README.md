@@ -1,2 +1,3 @@
 # Room Temperature Sensor Using Arduino
-Room Temperature Sensor Using Arduino. Green Led lights up if the temperature is fine, Blue Led if the temperature is cold and red if it is hot. 
+
+Στα πλαίσια του μαθήματος "Συνεργατικά Περιβάλλοντα Μάθησης" του 6ου εξαμήνου του Προγράμματος Σπουδών του τμήματος "Ψηφιακών Συστημάτων" του Πανεπιστημίο Πειραιά, εγώ η Χριστίνα Άννα Δεμίρη με την συμφοιτήτριά μου Αναστασία Καραγεωργίου, κληθήκαμε να 
