@@ -14,7 +14,7 @@ To Temp Balancer σχεδιάστηκε για να μειώσει την άσκ
 
 
 Βίντεο στο Youtube με την παρουσίαση του Project στον παρακάτω σύνδεσμο:
-
+https://youtu.be/o9AvvZgkgdM
 
 Ψηφιακή προσομοίωση του Temp Balancer μέσω του Tinkercad στον παρακάτω σύνδεσμο:
 https://www.tinkercad.com/things/1iq6aXIpmHC-temp-balancer-arduino/editel
